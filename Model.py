@@ -120,4 +120,4 @@ plt.xlabel("X-axis Label")
 plt.ylabel("Y-axis Label")
 plt.title("Random Forest & linear Regression")
 plt.plot()
-plt.show()
+plt.show() #this will allow to print current data
